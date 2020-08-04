@@ -1,0 +1,5 @@
+function Dog(){
+  this.name="hira";
+  this.color="white";
+  this.numLegs=4;
+}
