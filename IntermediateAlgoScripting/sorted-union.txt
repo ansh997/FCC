@@ -1,0 +1,8 @@
+function uniteUnique(arr) {
+  var newArr = [...arguments];
+  const flatArray = [].concat(...newArr);
+  return [...new Set(flatArray)];
+  // return arr;
+}
+
+uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
