@@ -5,4 +5,5 @@ I am learning new web technologies everyday. I will be making updates daily as I
 #Certificates:
 <br>
 <a href="https://www.freecodecamp.org/certification/ansh997/responsive-web-design" target="_blank">Responsive Web Design</a>
+<br>
 <a href="https://www.freecodecamp.org/certification/ansh997/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
